@@ -2,7 +2,7 @@
 
 I’m Caroline V. James, a writer and evaluator specializing in the intersection of language, 
 culture, and AI behavior. My background in anthropology informs how I analyze not just what people 
-say, but how they say it—the tone, idioms, slang, cultural cues, and pragmatic signals that shape 
+say, but how they say it: the tone, idioms, slang, cultural cues, and pragmatic signals that shape 
 meaning. These are the areas where AI systems most often misinterpret human communication.
 
 I work on:
