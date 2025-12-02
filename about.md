@@ -14,7 +14,7 @@ I work on:
 - identifying failure modes such as sycophancy, subtle bias, and misinterpretation of intent  
 - creating structured datasets, annotations, and evaluation protocols  
 
-I am especially interested in how LLMs handle culturally grounded expression—how meaning shifts 
+I am especially interested in how LLMs handle culturally grounded expression, especially how meaning shifts 
 with idioms, indirectness, politeness strategies, and the unspoken assumptions shared within 
 communities. My goal is to help build AI systems that are more truthful, context-aware, and 
 aligned with real human communication.
