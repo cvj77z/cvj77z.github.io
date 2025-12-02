@@ -1,0 +1,21 @@
+title: "Caroline V. James | AI Writing, Prompt Engineering & LLM Evaluation"
+description: "Portfolio showcasing prompt engineering, nuanced data labeling, safety evaluation, and applied sociolinguistics for AI systems."
+
+theme: jekyll-theme-primer
+
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - index.md
+  - about.md
+  - prompt-engineering.md
+  - data-labeling.md
+  - safety-eval.md
+  - applied-sociolinguistics.md
